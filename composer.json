@@ -1,0 +1,21 @@
+{
+    "name": "surpaimb/taobao-sdk",
+    "description": "Taobao SDK for composer",
+    "keywords": ["taobao", "api", "top", "sdk"],
+    "type": "libaray",
+    "require": {
+        "ext-curl": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tuple Deng",
+            "email": "tuple@youshui.ren"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "TopSdk.php"
+        ]
+    }
+}
